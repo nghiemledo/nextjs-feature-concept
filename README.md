@@ -14,14 +14,15 @@ This repository contains my learning exercises for Next.js.
 ## Overview
 
 In this repository including:
-- Server-side rendering (SSR)
-- Static site generation (SSG)
-- API routes
-- Dynamic routing
-- Linking pages
-- Custom 404 page
-- Image and Meta
-- Dynamic data fetching
+
+-  Server-side rendering (SSR)
+-  Static site generation (SSG)
+-  API routes
+-  Dynamic routing
+-  Linking pages
+-  Custom 404 page
+-  Image and Meta
+-  Dynamic data fetching
 
 ## Getting Started
 
@@ -36,7 +37,7 @@ Follow these instructions to set up the project locally.
 2. Navigate to the project directory:
 
    ```bash
-   cd nextjs-structure
+   cd nextjs-app
    ```
 
 3. Install dependencies:
@@ -44,7 +45,6 @@ Follow these instructions to set up the project locally.
    ```bash
    npm install
    ```
-
 
 ### Prerequisites
 
